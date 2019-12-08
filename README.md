@@ -5,8 +5,7 @@ Created with <3 for front-end developers who need a quick back-end for prototypi
 ```
 
 Start JSON Server
-
-```bash
+```
 cd jsonserverCGIvisitkort
 json-server --watch db.json
 ```
