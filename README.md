@@ -2,8 +2,6 @@
 
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
 
-```
-
 Start JSON Server
 ```
 cd jsonserverCGIvisitkort
