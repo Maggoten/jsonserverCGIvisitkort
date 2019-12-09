@@ -9,4 +9,4 @@ cd jsonserverCGIvisitkort
 json-server --watch db.json
 ```
 
-Now you cam go to [http://localhost:3000/employee](http://localhost:3000/employee/
+Now you ca go to http://localhost:3000/employee/
